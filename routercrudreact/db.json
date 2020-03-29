@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "bisteck a la parrilla",
+      "categoria": "cortes",
+      "id": "2"
+    },
+    {
+      "precioPlatillo": "20",
+      "nombrePlatillo": "pan ",
+      "categoria": "postre",
+      "id": "DKJC95G"
+    },
+    {
+      "nombrePlatillo": "asado",
+      "precioPlatillo": "32",
+      "categoria": "cortes",
+      "id": "2F4CEds"
+    },
+    {
+      "precioPlatillo": "10",
+      "nombrePlatillo": "ron",
+      "categoria": "bebida",
+      "id": "v4wa5Tm"
+    },
+    {
+      "nombrePlatillo": "ensalada de gallina",
+      "precioPlatillo": "25",
+      "categoria": "ensalada",
+      "id": "SauxpGD"
+    }
+  ]
+}
